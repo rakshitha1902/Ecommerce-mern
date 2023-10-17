@@ -4,21 +4,21 @@ ReVerve is an eco-conscious fashion brand committed to sustainability. This E-co
 
 1. Navigate to the client and server folders separately and install the required dependencies:
 
-   # cd client
-   # npm install
+    cd client
+    npm install
 
-   # cd server
-   # npm install
+    cd server
+    npm install
 
 2. Running the Server
    To run the server, use the following command:
 
-    # npm run dev
+     npm run dev
 
 3. Running the Client
    To run the client, use the following command:
 
-    # npm start
+     npm start
 
 Technologies Used:
 
