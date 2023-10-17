@@ -22,10 +22,10 @@ ReVerve is an eco-conscious fashion brand committed to sustainability. This E-co
 
 Technologies Used:
 
-   # ReactJs
-   # Node.js
-   # Express
-   # MongoDB
-   # Redux
-   # Material-UI
-   # Tailwind CSS
+    ReactJs
+    Node.js
+    Express
+    MongoDB
+    Redux
+    Material-UI
+    Tailwind CSS
